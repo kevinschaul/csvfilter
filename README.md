@@ -7,7 +7,9 @@ Very much in development.
 
 ## Installation
 
+```
 npm install -g
+```
 
 ## Usage
 
