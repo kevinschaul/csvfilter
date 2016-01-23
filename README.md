@@ -11,4 +11,6 @@ npm install -g
 
 ## Usage
 
+```
 csvfilter -c time -f 'return d === "true";' test.csv
+```
